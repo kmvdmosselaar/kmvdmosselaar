@@ -18,4 +18,4 @@
     </a>
 </div>
   
-![Snake animation](https://github.com/kmvdmosselaar/kmvdmosselaar/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kmvdmosselaar/kmvdmosselaar/blob/output/github-contribution-grid-snake.svg)
