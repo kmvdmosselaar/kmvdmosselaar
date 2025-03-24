@@ -17,5 +17,3 @@
       <img width="25" src="linkedin.svg">
     </a>
 </div>
-  
-![Snake animation](https://github.com/kmvdmosselaar/kmvdmosselaar/blob/output/github-contribution-grid-snake.svg)
